@@ -5,7 +5,9 @@ class App extends Component {
         super(props);
     }
     render() {
-        return "<div>hikvision</div>"
+        return (
+            <div className="feng">hikvision</div>
+        )
     }
 }
 
